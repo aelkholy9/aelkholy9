@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, i'm Abdelrahman Elkholy, a passionate software engineer and self-taught Flutter developer from Egypt. My passion lies in developing software that improves people's lives.
+
 <!--
 **aelkholy9/aelkholy9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
