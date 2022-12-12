@@ -50,6 +50,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aelkholy9/aelkholy9/blob/output/snake.svg" alt="Snake animation" />
 
-###
