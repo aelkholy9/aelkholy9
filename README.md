@@ -21,7 +21,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning JS, TS, Mongo, SQL, NodeJS<br>🎲 Fun fact: I am not only a software engineer, but also a good friend 👻<br>👨🏻‍💻 5 Apps Live on App store / Google Play 👇</h4>
+<h4 align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning JS, TS, Mongo, SQL, NodeJS<br>🎲 Fun fact: I am not only a software engineer, but also a photographer,videographer,editor and a good friend 👻<br>👨🏻‍💻 5 Apps Live on App store / Google Play 👇</h4>
 
 ###
 
